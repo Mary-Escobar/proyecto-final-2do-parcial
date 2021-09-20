@@ -1,0 +1,9 @@
+1|Sistemas
+2|Contabilidad
+3|Nomina
+4|Financiero5|sistemas
+5|recursos humanos
+6|Comercial
+7|Salud
+8|auditoria
+9|auditoria
